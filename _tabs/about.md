@@ -72,7 +72,7 @@ Certificates Cybersecurity:
 - **Programming Python**: Even though I have a good understanding in Scripting and Programming, I can not write good Algorithms or programs (Just very easy ones) 
 
 
-This site serves as a platform for documenting my progress and sharing insights from my CTF experiences. I’m passionate about both offensive and defensive security techniques, and 
+This site serves as a platform for documenting my progress and sharing insights from my CTF experiences. I’m passionate about both offensive and defensive security techniques!
 
 ## Connect with Me
 
