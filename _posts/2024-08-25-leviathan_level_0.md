@@ -3,6 +3,7 @@ title: "Leviathan Level 0 - Level 1"
 date: 2024-08-25 12:00:00 -500 
 categories: [OvertheWire, Leviathan]
 tags: [linux,wargames,leviathan,overthewire]
+author: Christoph K
 ---
 
 
