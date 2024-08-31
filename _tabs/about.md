@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![Christoph K](assets/img/Foto_Website.jpg){: .right width="300px"}
+![Christoph K](assets/img/Foto_Website.jpg){: .normal width="500px"}
 
 
 # IT-Specialist Chris 
