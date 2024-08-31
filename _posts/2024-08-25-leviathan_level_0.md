@@ -43,26 +43,28 @@ There is a hidden folder `.backup`.
 
 What could be inside this folder?
 
-`cd .backup`
-
+```bash
+cd .backup
+```
 and again - what is inside? 
-
-`ls -la`
-
+```bash
+ls -la
+```
 
 We found a file `bookmarks.html`. We can print out a few lines of this file via head
 
-`head bookmarks.html`
-
+```bash
+head bookmarks.html
+```
 ### Solve the level
 
 okay - how can we find out the password for the next level without reading the whole file? 
 
 Yes - we can search for it. Lets try it with the word `password` or `leviathan1`
 
-
-`cat bookmarks.html |grep "password" `
-
+```bash
+cat bookmarks.html |grep "password" 
+```
 
 ![Pic2](assets/img/Leviathan_0/Leviathan_2.png)
 

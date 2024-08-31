@@ -19,7 +19,7 @@ author: Christoph K
 
 ### Start
 
-Let's begin by connecting to the server `bandit.labs.overthewire.org` and logging in with user `bandit` on port `2220`.
+Let's begin by connecting to the server `bandit.labs.overthewire.org` and logging in with user `bandit1` on port `2220`.
 
 We have several commands available for this task:
 
