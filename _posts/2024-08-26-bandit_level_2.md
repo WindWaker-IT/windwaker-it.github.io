@@ -18,7 +18,7 @@ author: Christoph K
 <!-- PICTURE FROM TASK -->
 https://overthewire.org/wargames/bandit/bandit3.html
 
-![Task](assets\img\Bandit_2\Bandit_2_1.png "Task")
+![Task](assets/img/Bandit_2/Bandit_2_1.png "Task")
 
 <!-- change username bandit!! -->
 ### Start
