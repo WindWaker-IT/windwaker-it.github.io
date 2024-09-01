@@ -1,6 +1,6 @@
 ---
 title: "Bandit: Level 2 - Level 3"
-date: 2024-08-24 12:00:00 -500 
+date: 2024-08-26 12:00:00 -500 
 categories: [OvertheWire, Bandit]
 tags: [linux,wargames,bandit,overthewire]
 author: Christoph K
