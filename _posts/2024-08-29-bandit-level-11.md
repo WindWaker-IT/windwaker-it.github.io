@@ -114,3 +114,4 @@ In Linux, the `tr` command, which stands for 'translate', is used for character 
 
 ```bash
 tr <old_chars> <new_chars>
+```
