@@ -51,7 +51,7 @@ Okay we are working now with connections. Lets check what we have here.
 bandit13@bandit:~$ ls
 sshkey.private
 bandit13@bandit:~$ cat sshkey.private
------BEGIN  -----
+--BIN  -----
 MIIEpAIBAAKCAQEAxkkOE83W2cOT7IWhFc9aPaaQmQDdgzuXCv+ppZHa++buSkN+
 gg0tcr7Fw8NLGa5+Uzec2rEg0WmeevB13AIoYp0MZyETq46t+jk9puNwZwIt9XgB
 ZufGtZEwWbFWw/vVLNwOXBe4UWStGRWzgPpEeSv5Tb1VjLZIBdGphTIK22Amz6Zb

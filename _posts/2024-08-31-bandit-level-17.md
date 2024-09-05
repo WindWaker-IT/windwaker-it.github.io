@@ -103,3 +103,4 @@ The `diff` command in Linux compares two files line by line and displays the dif
 
 ```bash
 diff file1.txt file2.txt
+```
