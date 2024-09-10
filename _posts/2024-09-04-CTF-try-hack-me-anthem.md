@@ -353,3 +353,11 @@ On the Desktop you can find a text file with following content:
 
 
 `THM{Y0U_4R3_1337}`
+
+## Thoughts:
+
+Very good entry CTF for getting to know `ports` and `services` as well as some `source code`from webpages.
+What did we learn?
+- using `nmap` for finding services and ports
+- information about webpages (web scrapper)
+- searching in `source code` 
