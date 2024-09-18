@@ -5,7 +5,7 @@ categories: [CTF - Tryhackme, RootMe]
 tags: [ctf,exploit,flags,tryhackme,pentesting]
 author: Christoph K
 ---
-[TryHackMe- Basic Pentesting](https://tryhackme.com/r/room/rrootmet)
+[TryHackMe- RootMe](https://tryhackme.com/r/room/rrootmet)
 
 # Tasks
 
