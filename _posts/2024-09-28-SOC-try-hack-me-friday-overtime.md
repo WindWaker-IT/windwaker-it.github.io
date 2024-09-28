@@ -1,6 +1,6 @@
 ---
 title: "[SOC-Level 1] Tryhackme - Friday Overtime"
-date: 2024-09-19 12:00:00 -500 
+date: 2024-09-28 12:00:00 -500 
 categories: [SOC-Level 1 - Tryhackme, Friday Overtime]
 tags: [soc,tryhackme,blueteam]
 author: Christoph K
