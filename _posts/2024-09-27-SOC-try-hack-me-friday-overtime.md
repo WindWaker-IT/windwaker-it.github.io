@@ -5,7 +5,7 @@ categories: [SOC-Level 1 - Tryhackme, Friday Overtime]
 tags: [soc,tryhackme,blueteam]
 author: Christoph K
 ---
-[TryHackMe- Agent Sudo ](https://tryhackme.com/r/room/fridayovertime)
+[TryHackMe- Friday Overtime ](https://tryhackme.com/r/room/fridayovertime)
 
 
 
