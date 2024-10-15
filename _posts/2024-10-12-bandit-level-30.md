@@ -73,9 +73,9 @@ There are no hints in `commits` and there is also just one `branch`.
 
 Lets research `tags`:
 
-Git tagging is a method used to identify specific points in a repository's history, such as software release milestones. You can view existing tags with the command git tag. To create a new tag, use git tag -a <tag_name> -m "<tag description/message>". For more information about a particular tag, including the tag message and associated commit, the command git show <tag_name> will display the details.
+    Git tagging is a method used to identify specific points in a repository's history, such as software release milestones. You can view existing tags with the command git tag. To create a new tag, use git tag -a <tag_name> -m "<tag description/message>". For more information about a particular tag, including the tag message and associated commit, the command git show <tag_name> will display the details.
 
-Alright, if this git has `tags`:
+Alright, we check if this git has `tags`:
 
 ```bash
 bandit30@bandit:/tmp/tmp.cYsqMT5RVr/.git$ git tag
@@ -85,7 +85,7 @@ fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
 bandit30@bandit:/tmp/tmp.cYsqMT5RVr/.git$
 ```
 
-Okay we got the password.
+Okay -  we got the password.
 
 Password: `fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy`
 
