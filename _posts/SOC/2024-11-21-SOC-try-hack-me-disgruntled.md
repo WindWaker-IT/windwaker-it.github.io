@@ -1,6 +1,6 @@
 ---
 title: "[SOC-Level 1] Tryhackme - Linux Forensics - Disgruntled"
-date: 2024-11-11 12:00:00 -500 
+date: 2024-11-21 12:00:00 -500 
 categories: [SOC-Level 1 - Tryhackme, Linux Forensics - Disgruntled]
 tags: [soc,tryhackme,blueteam,linux,forensics]
 author: Christoph K
