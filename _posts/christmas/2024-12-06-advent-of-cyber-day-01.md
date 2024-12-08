@@ -233,7 +233,7 @@ Answer: `Mayor Malware`
 
 We need to dig further into the repo from `Mayor Malware`. We have to search for his `repo` and can check the `insights` to find out, how many `commits` there have been:
 
-[github-profile](assets/img/tryhackme/cyberadvent/day01/04.png)
+![github-profile](assets/img/tryhackme/cyberadvent/day01/04.png)
 
 
 Answer: `1 `
