@@ -1,5 +1,5 @@
 ---
-title: "Advent of Cyber - Day 01 "
+title: "Advent of Cyber - Day 01 OPSEC"
 date: 2024-12-06 12:00:00 -500 
 categories: [Advent of Cyber - Tryhackme, Day 01]
 tags: [siem,exploit,flags,tryhackme,pentesting]
