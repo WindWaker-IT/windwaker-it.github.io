@@ -1,6 +1,6 @@
 ---
 title: "Advent of Cyber - Day 05 XXE "
-date: 2024-12-06 12:00:00 -500 
+date: 2024-12-12 12:00:00 -500 
 categories: [Advent of Cyber - Tryhackme, Day 05]
 tags: [siem,exploit,flags,tryhackme,pentestingl,xxe]
 author: Christoph K
