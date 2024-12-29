@@ -5,7 +5,7 @@ categories: [CTF - Tryhackme, Ignite]
 tags: [ctf,exploit,flags,tryhackme,pentesting]
 author: Christoph K
 ---
-[TryHackMe- Lazy Admin ](https://tryhackme.com/r/room/ignite)
+[TryHackMe- Ignite ](https://tryhackme.com/r/room/ignite)
 
 ## Tasks
 
