@@ -1,7 +1,7 @@
 ---
 title: "Advent of Cyber - Day 10 Phishing"
 date: 2024-12-19 12:00:00 -500 
-categories: [Advent of Cyber - Tryhackme, Day 05]
+categories: [Advent of Cyber - Tryhackme, Day 10]
 tags: [siem,exploit,flags,tryhackme,pentestingl,xxe]
 author: Christoph K
 ---
