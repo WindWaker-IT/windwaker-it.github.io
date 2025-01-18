@@ -314,7 +314,7 @@ We can connect now via `ssh`:
 
 And we can check the user profiles for the flag:
 ```bash
-jake@brookly_nine_nine:/home/holt$ cat user.txt
+jake@brookly_nine_nine:/home/holt$ cat user.txty
 ee11cbb19052e40b07aac0ca060c23ee
 
 ```
