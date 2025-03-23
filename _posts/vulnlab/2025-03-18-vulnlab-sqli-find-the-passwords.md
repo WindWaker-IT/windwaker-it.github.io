@@ -68,7 +68,7 @@ It should be like that now:
 
 
 
-## Make is pretty
+## Make it pretty
 
 
 Now that we have the passwords attached to our original table, we can make it prettier. We move the `username` column to number 2 and `mail` to 3. 
