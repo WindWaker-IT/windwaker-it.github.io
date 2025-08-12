@@ -1,7 +1,7 @@
 ---
-title: "[Vulnlab] Build your own Vulnlab with Docker"
+title: "[Homelab] Build your own Vulnlab with Docker"
 date: 2025-03-13 12:00:00 -500 
-categories: [Vulnlab, Installation]
+categories: [Homelab, Installation]
 tags: [soc,redteam,sqli,docker,vulnlab]
 author: Christoph K
 ---

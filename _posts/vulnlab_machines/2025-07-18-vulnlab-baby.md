@@ -1,7 +1,7 @@
 ---
 title: "[Vulnlab] Baby"
 date: 2025-07-18 15:00:00 -500 
-categories: [Vulnlab,CTF]
+categories: [Vulnlab,Baby (AD Hacking)]
 tags: [AD,redteam,hacking,ctf,vulnlab]
 author: Christoph K
 ---

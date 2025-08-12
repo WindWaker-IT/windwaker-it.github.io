@@ -1,7 +1,7 @@
 ---
-title: "[Vulnlab] SQL Injection - Login"
+title: "[Homelab] SQL Injection - Login"
 date: 2025-03-13 15:00:00 -500 
-categories: [Vulnlab, SQL Injection - Login]
+categories: [Homelab, SQL Injection - Login]
 tags: [soc,redteam,sqli,docker,vulnlab]
 author: Christoph K
 ---

@@ -1,12 +1,12 @@
 ---
 title: "[Vulnlab] Retro"
 date: 2025-07-25 15:00:00 -500 
-categories: [Vulnlab,CTF]
+categories: [Vulnlab,Retro (AD Hacking)]
 tags: [AD,redteam,hacking,ctf,vulnlab]
 author: Christoph K
 ---
 
-# Introducktion
+# Introduction
 
 ### Hint:
 
